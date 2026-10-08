@@ -11,15 +11,15 @@ You can complete this task on the worksheet pdf if you prefer.
 |     Command                 |     Explanation    |
 |-----------------------------|--------------------|
 |     pwd                     | shows the current location of the terminal |
-|     ls                      | |
-|     cd directory_name       | |
-|     cd ..                   | |
-|     cd -                    | |
-|     mkdir directory_name    | |
-|     touch filename          | |
-|     git status              | |
-|     git add -A              | |
-|     git commit -m ""        | |
-|     git push                | |
-|     git pull                | |
+|     ls                      | | shows list of files |
+|     cd directory_name       | | takes you to the specified directory |
+|     cd ..                   | | goes up one level of files |
+|     cd -                    | | brings you back to the last file you were in |
+|     mkdir directory_name    | | creates a new directory |
+|     touch filename          | | opens specified file |
+|     git status              | | shows the current status of the directory |
+|     git add -A              | | prepares the files for saving | 
+|     git commit -m ""        | | saves files permanently |
+|     git push                | | uploads all the files to backup |
+|     git pull                | | lets you download others work or updates |
 
